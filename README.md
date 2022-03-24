@@ -1,3 +1,3 @@
 # antlo.dev
 
-![Logo for antlo.dev](/static/logo.png)
+![Logo for antlo.dev](/static/logo.svg)
