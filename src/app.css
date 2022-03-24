@@ -1,0 +1,10 @@
+/* Write your global styles here, in PostCSS syntax */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: 'Lato', sans-serif;
+  height: calc(100 * var(--vh, 1vh));
+  min-width: 360px;
+}
