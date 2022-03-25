@@ -8,3 +8,14 @@ body {
   height: calc(100 * var(--vh, 1vh));
   min-width: 360px;
 }
+
+::-moz-selection {
+  /* Code for Firefox */
+  color: #f1eeee;
+  background: #1d1c1c;
+}
+
+::selection {
+  color: #f1eeee;
+  background: #1d1c1c;
+}
